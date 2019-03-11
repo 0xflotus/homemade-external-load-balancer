@@ -5,7 +5,7 @@
 
 At work, we all have AWS ELB, Aliyun SLB, etc. What if we just want to have a k8s cluster up running at home with this nice feature?
 
-I give yout **HELB**(Homemade External Load-Balancer). It provides dynamic resolved dns names for your services on your machine, accessible private or public.
+I give you **HELB**(Homemade External Load-Balancer). It provides dynamic resolved dns names for your services on your machine, accessible private or public.
 
 
 ## How to use?
